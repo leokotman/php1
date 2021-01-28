@@ -50,3 +50,28 @@ switch ($a){
     case (15):
         echo 15 . "<br>";
 }
+
+//task 3
+$a = rand(1, 10);
+$b = rand(1, 10);
+echo "task 3: a = {$a}, b = {$b} <br>";
+
+function add($x, $y){
+    return $x + $y;
+}
+echo "сумма: " . add($a, $b) . "<br>";
+
+function subtract($x, $y){
+    return $x - $y;
+}
+echo "разность: " . subtract($a, $b) . "<br>";
+
+function multiply($x, $y){
+    return $x * $y;
+}
+echo "произведение: " . multiply($a, $b) . "<br>";
+
+function divide($x, $y){
+    return $x / $y;
+}
+echo "деление: " . divide($a, $b) . "<br>";
