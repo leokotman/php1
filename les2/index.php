@@ -75,3 +75,28 @@ function divide($x, $y){
     return $x / $y;
 }
 echo "деление: " . divide($a, $b) . "<br>";
+
+//task 4
+echo "task 4 <br>";
+function mathOperation($x, $y, $operation){
+    switch ($operation){
+        case ("сумма"):
+            echo "сумма: " . add($x, $y);
+            break;
+        case ("разность"):
+            echo "разность: " . subtract($x, $y);
+            break;
+        case ("произведение"):
+            echo "произведение: " . multiply($x, $y);
+            break;
+        case ("деление"):
+            echo "деление: " . divide($x, $y);
+            break;
+        default:
+            echo "Неверные значения функции";
+    }
+}
+mathOperation(3,5,'сумма');
+mathOperation(3,5,'разность');
+mathOperation(3,5,'произведение');
+mathOperation(3,5,'деление');
