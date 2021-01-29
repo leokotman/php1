@@ -100,3 +100,44 @@ mathOperation(3,5,'сумма');
 mathOperation(3,5,'разность');
 mathOperation(3,5,'произведение');
 mathOperation(3,5,'деление');
+
+//task 6
+echo "<br> task 6 <br>";
+function power($val, $pow){
+    for ($val != 0; (int) $pow >= 0; $pow--){
+        if ($pow == 0){
+            return 1;
+        } elseif ($pow == 1){
+            return $val;
+        } else {
+            return $val * power($val, $pow - 1);
+        }
+    }
+}
+echo power(3,3) . "<br>";
+
+//task 7
+echo "task 7 <br>";
+function currentTime(){
+    $hours = date("H");
+    $minutes = date("i");
+    $time = "";
+    if ($hours == 0 || ($hours >= 5 && $hours <= 20)){
+        $time .= $hours . " часов ";
+    } elseif ($hours == 1 || $hours == 21){
+        $time .= "\$hours час ";
+    } else {
+        $time .= $hours . " часа ";
+    }
+    if ($minutes == 1 || ($minutes > 20 && $minutes%10 == 1)){
+        $time .= $minutes . " минута ";
+    } elseif (($minutes >=2 && $minutes <= 4) ||
+        ($minutes > 20 && ($minutes%10 == 2 || $minutes%10 == 3 || $minutes%10 == 4))){
+        $time .= $minutes . " минуты ";
+    } else {
+        $time .= $minutes . " минут ";
+    }
+    return $time;
+}
+echo "Текущее время (по серверу): " . currentTime();
+
