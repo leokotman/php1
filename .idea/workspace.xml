@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1804e14b-b213-4e28-a425-cd71d122b5fa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/les2/task1-7(ex5)/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/les2/task1-7(ex5)/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,12 +30,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/les2/task1-7(ex5)/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="141" column="38" selection-start-line="141" selection-start-column="38" selection-end-line="141" selection-end-column="38" />
+            <state relative-caret-position="344">
+              <caret line="142" column="57" selection-start-line="142" selection-start-column="57" selection-end-line="142" selection-end-column="57" />
               <folding>
-                <element signature="e#282#932#0#PHP" />
-                <element signature="n#mathOperation#0;n#!!top" />
-                <element signature="n#power#0;n#!!top" />
+                <element signature="e#284#944#0#PHP" />
+                <element signature="n#currentTime#0;n#!!top" />
               </folding>
             </state>
           </provider>
@@ -59,11 +59,18 @@
     </option>
   </component>
   <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="http://localhost/" id="ecfad6f0-795f-472b-9c15-c96e2e3ca734" name="local" />
+      <server host="localhost" id="dc948941-0bb0-4ec9-a753-bedde4edf18c" name="localhost" />
+    </servers>
+  </component>
+  <component name="PhpWebServerValidation" path_to_validation_script="$PROJECT_DIR$" selected_validation_type="LOCAL" web_path_to_validation_script="http://localhost/" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="254" />
-    <option name="y" value="180" />
-    <option name="width" value="887" />
-    <option name="height" value="511" />
+    <option name="x" value="143" />
+    <option name="y" value="111" />
+    <option name="width" value="1116" />
+    <option name="height" value="615" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -73,6 +80,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -91,17 +99,22 @@
               <item name="les2" type="462c0819:PsiDirectoryNode" />
               <item name="task1-7(ex5)" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="php1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php1" type="462c0819:PsiDirectoryNode" />
+              <item name="les2" type="462c0819:PsiDirectoryNode" />
+              <item name="task5-engine2" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.debug" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -115,6 +128,11 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="local" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug" filter_connections="FILTER" server_name="local" session_id="PHPSTORM">
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -126,12 +144,14 @@
       <option name="presentableId" value="Default" />
       <updated>1611865816122</updated>
       <workItem from="1611865828135" duration="1817000" />
-      <workItem from="1611946109030" duration="6354000" />
+      <workItem from="1611946109030" duration="6576000" />
+      <workItem from="1612093548813" duration="4398000" />
+      <workItem from="1612113500175" duration="2171000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11090000" />
+    <option name="totallyTimeSpent" value="17881000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -143,24 +163,24 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="254" y="180" width="887" height="511" extended-state="0" />
+    <frame x="143" y="111" width="1116" height="615" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.20848057" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.37875938" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24932249" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49906015" weight="0.3690476" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32826748" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32738096" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32917318" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32917318" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32917318" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50093985" side_tool="true" weight="0.3690476" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -185,33 +205,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/les2/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="101" column="29" lean-forward="true" selection-start-line="101" selection-start-column="29" selection-end-line="101" selection-end-column="29" />
-          <folding>
-            <element signature="e#229#248#0#PHP" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/engine2/about.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/engine2/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/engine2/layout.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/les2/index.php" />
+    <entry file="file://$USER_HOME$/Downloads/engine2/about.php" />
+    <entry file="file://$USER_HOME$/Downloads/engine2/index.php" />
+    <entry file="file://$USER_HOME$/Downloads/engine2/layout.php" />
     <entry file="file://$PROJECT_DIR$/les2/template.php" />
     <entry file="file://$USER_HOME$/Downloads/time.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -220,40 +217,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/les2/engine2/index.php">
+    <entry file="file://$PROJECT_DIR$/les2/engine2/index.php" />
+    <entry file="file://$PROJECT_DIR$/les2/engine2/menu.php" />
+    <entry file="file://$PROJECT_DIR$/les2/engine2/about.php" />
+    <entry file="file://$PROJECT_DIR$/les2/engine2/layout.php" />
+    <entry file="file://$PROJECT_DIR$/les2/task1-7(ex5)/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        <state relative-caret-position="344">
+          <caret line="142" column="57" selection-start-line="142" selection-start-column="57" selection-end-line="142" selection-end-column="57" />
+          <folding>
+            <element signature="e#284#944#0#PHP" />
+            <element signature="n#currentTime#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/les2/engine2/menu.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/les2/engine2/about.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/les2/engine2/layout.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/les2/task5-engine2/about.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        <state relative-caret-position="170">
+          <caret line="10" column="61" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/les2/task5-engine2/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="119">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/les2/task5-engine2/layout.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -261,18 +257,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/les2/task1-7(ex5)/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="141" column="38" selection-start-line="141" selection-start-column="38" selection-end-line="141" selection-end-column="38" />
-          <folding>
-            <element signature="e#282#932#0#PHP" />
-            <element signature="n#mathOperation#0;n#!!top" />
-            <element signature="n#power#0;n#!!top" />
-          </folding>
         </state>
       </provider>
     </entry>
