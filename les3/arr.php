@@ -41,6 +41,20 @@ foreach ($regions as $key => $region){
         }
     }
 }
+//task 8
+echo '<br> task 8 <br>';
+foreach ($regions as $key => $region){
+    echo $key . ":<br>";
+    foreach ($region as $town){
+        if (mb_str_split($town)[0] == 'К'){
+            if ($town == end($region)){
+                echo "{$town}. <br>";
+            } else {
+                echo "{$town}, ";
+            }
+        }
+    }
+}
 
 //task 4
 echo '<br> task 4 <br>';
@@ -89,5 +103,7 @@ function replaceSpace($string){
 }
 echo replaceSpace("Здесь пробелы заменятся на подчёркивания");
 
-//task 6
-echo '<br> task 6 <br>';
+//task 6 - файл menu template
+//task 7
+echo '<br> task 7 <br>';
+for ($i = 0; $i <= 9; print $i, $i++){};
