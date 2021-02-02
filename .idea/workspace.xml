@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1804e14b-b213-4e28-a425-cd71d122b5fa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/les3/arr.php" beforeDir="false" afterPath="$PROJECT_DIR$/les3/arr.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,8 +30,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/les3/arr.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+            <state relative-caret-position="220">
+              <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/D/IT/7.PHP1/PHP-lessons/les3/alfavit.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="14" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -63,10 +73,10 @@
   </component>
   <component name="PhpWebServerValidation" path_to_validation_script="$PROJECT_DIR$" selected_validation_type="LOCAL" web_path_to_validation_script="http://localhost/" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="525" />
-    <option name="y" value="234" />
-    <option name="width" value="729" />
-    <option name="height" value="539" />
+    <option name="x" value="222" />
+    <option name="y" value="359" />
+    <option name="width" value="1021" />
+    <option name="height" value="435" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -140,12 +150,13 @@
       <workItem from="1612093548813" duration="4398000" />
       <workItem from="1612113500175" duration="2171000" />
       <workItem from="1612116775957" duration="752000" />
-      <workItem from="1612216992930" duration="4012000" />
+      <workItem from="1612216992930" duration="4560000" />
+      <workItem from="1612292350864" duration="5311000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22645000" />
+    <option name="totallyTimeSpent" value="28504000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -157,24 +168,24 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="525" y="234" width="729" height="539" extended-state="0" />
+    <frame x="222" y="359" width="1021" height="435" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.37875938" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.24932249" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49799198" weight="0.37874097" />
+      <window_info id="Structure" order="1" sideWeight="0.502008" side_tool="true" weight="0.37874097" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49906015" weight="0.5630841" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.498452" weight="0.42889908" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32625994" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32568806" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32917318" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32917318" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50093985" side_tool="true" weight="0.36870027" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.501548" side_tool="true" weight="0.42889908" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -250,10 +261,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/D/IT/7.PHP1/PHP-lessons/les3/alfavit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/les3/arr.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+        <state relative-caret-position="220">
+          <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
         </state>
       </provider>
     </entry>
