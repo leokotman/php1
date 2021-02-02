@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1804e14b-b213-4e28-a425-cd71d122b5fa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/les3/arr.php" beforeDir="false" afterPath="$PROJECT_DIR$/les3/arr.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/les3/arr.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="165">
+              <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -63,9 +63,9 @@
   </component>
   <component name="PhpWebServerValidation" path_to_validation_script="$PROJECT_DIR$" selected_validation_type="LOCAL" web_path_to_validation_script="http://localhost/" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="627" />
-    <option name="y" value="262" />
-    <option name="width" value="655" />
+    <option name="x" value="525" />
+    <option name="y" value="234" />
+    <option name="width" value="729" />
     <option name="height" value="539" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -140,12 +140,12 @@
       <workItem from="1612093548813" duration="4398000" />
       <workItem from="1612113500175" duration="2171000" />
       <workItem from="1612116775957" duration="752000" />
-      <workItem from="1612216992930" duration="2371000" />
+      <workItem from="1612216992930" duration="4012000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21004000" />
+    <option name="totallyTimeSpent" value="22645000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -157,7 +157,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="627" y="262" width="655" height="539" extended-state="0" />
+    <frame x="525" y="234" width="729" height="539" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.37875938" />
@@ -252,8 +252,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/les3/arr.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="165">
+          <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
         </state>
       </provider>
     </entry>
