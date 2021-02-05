@@ -26,24 +26,15 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+    <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/les3/arr.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
+            <state relative-caret-position="-550">
+              <caret line="30" column="89" selection-start-line="30" selection-start-column="89" selection-end-line="30" selection-end-column="89" />
               <folding>
-                <element signature="e#928#1464#0#PHP" />
+                <element signature="e#1326#1816#0#PHP" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/les3/menu_template.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -66,6 +57,7 @@
         <option value="$USER_HOME$/D/IT/7.PHP1/PHP-lessons/les3/menu_template.php" />
         <option value="$PROJECT_DIR$/les3/menu_template.php" />
         <option value="$PROJECT_DIR$/les3/arr.php" />
+        <option value="$USER_HOME$/D/IT/7.PHP1/PHP-lessons/les4/dz3/menu.php" />
       </list>
     </option>
   </component>
@@ -78,10 +70,10 @@
   </component>
   <component name="PhpWebServerValidation" path_to_validation_script="$PROJECT_DIR$" selected_validation_type="LOCAL" web_path_to_validation_script="http://localhost/" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="110" />
-    <option name="y" value="329" />
-    <option name="width" value="1052" />
-    <option name="height" value="427" />
+    <option name="x" value="149" />
+    <option name="y" value="169" />
+    <option name="width" value="1061" />
+    <option name="height" value="622" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -97,17 +89,6 @@
             <path>
               <item name="php1" type="b2602c69:ProjectViewProjectNode" />
               <item name="php1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="php1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="php1" type="462c0819:PsiDirectoryNode" />
-              <item name="les2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="php1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="php1" type="462c0819:PsiDirectoryNode" />
-              <item name="les2" type="462c0819:PsiDirectoryNode" />
-              <item name="task5-engine2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="php1" type="b2602c69:ProjectViewProjectNode" />
@@ -167,12 +148,13 @@
       <workItem from="1612113500175" duration="2171000" />
       <workItem from="1612116775957" duration="752000" />
       <workItem from="1612216992930" duration="4560000" />
-      <workItem from="1612292350864" duration="8210000" />
+      <workItem from="1612292350864" duration="8375000" />
+      <workItem from="1612547806842" duration="3223000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31403000" />
+    <option name="totallyTimeSpent" value="34791000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -184,7 +166,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="110" y="329" width="1052" height="427" extended-state="0" />
+    <frame x="149" y="169" width="1061" height="622" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49799198" weight="0.378" />
@@ -291,6 +273,11 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/D/IT/7.PHP1/PHP-lessons/les4/dz3/towns.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/les3/menu_template.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -298,12 +285,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/D/IT/7.PHP1/PHP-lessons/les4/dz3/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding>
+            <element signature="e#136#203#1#PHP" />
+            <element signature="e#208#467#1#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/les3/arr.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
+        <state relative-caret-position="-550">
+          <caret line="30" column="89" selection-start-line="30" selection-start-column="89" selection-end-line="30" selection-end-column="89" />
           <folding>
-            <element signature="e#928#1464#0#PHP" />
+            <element signature="e#1326#1816#0#PHP" />
           </folding>
         </state>
       </provider>
