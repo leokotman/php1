@@ -1,6 +1,3 @@
-<?php
-//include "menu.php";
-//?>
 About
 "A diploma is not a guarantee" or
 " How did I get here"
