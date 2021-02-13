@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1804e14b-b213-4e28-a425-cd71d122b5fa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/les4/mygallery.php" beforeDir="false" afterPath="$PROJECT_DIR$/les4/mygallery.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/les4/mygallery.php" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,13 +28,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/les4/mygallery.php">
+        <entry file="file://$PROJECT_DIR$/les4/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="86">
-              <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
-              <folding>
-                <element signature="n#galleryConstruct#0;n#!!top" />
-              </folding>
+            <state relative-caret-position="1411">
+              <caret line="83" column="3" selection-start-line="83" selection-start-column="3" selection-end-line="83" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/les4/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -60,6 +67,7 @@
         <option value="$PROJECT_DIR$/les4/chat.php" />
         <option value="$PROJECT_DIR$/les4/style.css" />
         <option value="$PROJECT_DIR$/les4/mygallery.php" />
+        <option value="$PROJECT_DIR$/les4/index.php" />
       </list>
     </option>
   </component>
@@ -72,10 +80,10 @@
   </component>
   <component name="PhpWebServerValidation" path_to_validation_script="$PROJECT_DIR$" selected_validation_type="LOCAL" web_path_to_validation_script="http://localhost/" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="230" />
-    <option name="y" value="337" />
-    <option name="width" value="958" />
-    <option name="height" value="443" />
+    <option name="x" value="10" />
+    <option name="y" value="342" />
+    <option name="width" value="1255" />
+    <option name="height" value="440" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -85,7 +93,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -102,6 +109,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -153,11 +161,13 @@
       <workItem from="1612292350864" duration="8375000" />
       <workItem from="1612547806842" duration="3409000" />
       <workItem from="1612712556574" duration="5559000" />
+      <workItem from="1613076387625" duration="197000" />
+      <workItem from="1613233599924" duration="4576000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40536000" />
+    <option name="totallyTimeSpent" value="45724000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -169,10 +179,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="230" y="337" width="958" height="443" extended-state="0" />
+    <frame x="10" y="362" width="1217" height="420" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49799198" weight="0.34988964" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49799198" visible="true" weight="0.272103" />
       <window_info id="Structure" order="1" sideWeight="0.502008" side_tool="true" weight="0.37874097" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -299,24 +309,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/les4/chat.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/les4/chat.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/les4/chat.txt" />
+    <entry file="file://$PROJECT_DIR$/les4/chat.php" />
     <entry file="file://$PROJECT_DIR$/les3/arr.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="795">
           <caret line="90" column="56" selection-start-line="90" selection-start-column="56" selection-end-line="90" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/les4/classSimpleImage.php" />
+    <entry file="file://$PROJECT_DIR$/les4/mygallery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -327,18 +333,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/les4/classSimpleImage.php">
+    <entry file="file://$PROJECT_DIR$/les4/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-436" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/les4/mygallery.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
-          <folding>
-            <element signature="n#galleryConstruct#0;n#!!top" />
-          </folding>
+        <state relative-caret-position="1411">
+          <caret line="83" column="3" selection-start-line="83" selection-start-column="3" selection-end-line="83" selection-end-column="3" />
         </state>
       </provider>
     </entry>
